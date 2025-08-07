@@ -1,15 +1,20 @@
 <img src="https://github.com/Raben1997/Raben1997/blob/f731e182ec1d1e544a946df7a7710fb0b0d4bf5f/Raben%20Haldar.png?raw=true" alt="Raben Haldar - Web Developer" width="100%" />
 
-# Hi there 👋 I'm Raben
+<h1 align="center">Hi there 👋 I'm Raben</h1>
 
-💻 Full Stack Developer (MERN Stack)
-🚀 I build modern, scalable full-stack web apps
-🌱 Currently focusing on React, Node, MongoDB & freelancing
-🎯 Passionate about clean code & user-first design
+<p align="center">
+💻 Full Stack Developer (MERN Stack)<br>
+🚀 I build modern, scalable full-stack web apps<br>
+🌱 Currently focusing on React, Node, MongoDB & freelancing<br>
+🎯 Passionate about clean code & user-first design<br>
 🧩 Always learning, always building
+</p>
 
-📫 Reach me at: [raben.haldar.1993@gmail.com](mailto:raben.haldar.1993@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/rabenhaldar) | [Facebook](https://facebook.com/rabenhaldar97)
+<p align="center">
+📫 <a href="mailto:raben.haldar.1993@gmail.com" target="_blank">Email</a> • 
+<a href="https://linkedin.com/in/rabenhaldar" target="_blank">LinkedIn</a> • 
+<a href="https://facebook.com/rabenhaldar97" target="_blank">Facebook</a>
+</p>
 
 ---
 
@@ -59,30 +64,31 @@
 
 </p>
 
-
-
-
-
 ---
 
 ### 📊 GitHub Stats
 
-![Raben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raben1997\&show_icons=true\&theme=transparent\&hide_title=false\&hide=issues\&custom_title=My%20GitHub%20Stats)
+![Raben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raben1997&show_icons=true&theme=transparent&hide_title=false&hide=issues&custom_title=My%20GitHub%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997\&layout=compact\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997&layout=compact&theme=transparent)
 
 ---
 
-> “Code is not just code, it’s poetry in motion.”
+> “Code is not just code, it’s poetry in motion.”  
 > — Raben Haldar
 
 ---
 
 ### 🌐 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=flat)](https://linkedin.com/in/rabenhaldar)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook\&logoColor=white\&style=flat)](https://facebook.com/rabenhaldar97)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail\&logoColor=white\&style=flat)](mailto:raben.haldar.1993@gmail.com)
-
-
-
+<p>
+  <a href="https://linkedin.com/in/rabenhaldar" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" />
+  </a>&nbsp;
+  <a href="https://facebook.com/rabenhaldar97" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat" />
+  </a>&nbsp;
+  <a href="mailto:raben.haldar.1993@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" />
+  </a>
+</p>
