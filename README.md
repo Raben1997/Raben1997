@@ -8,7 +8,7 @@
 <p align="left">
 💻 Full Stack Developer (MERN Stack)<br>
 🚀 I build modern, scalable full-stack web apps<br>
-🌱 Currently focusing on React, Node, MongoDB & freelancing<br>
+🌱 Currently focusing on React, Node, MongoDB<br>
 🎯 Passionate about clean code & user-first design<br>
 🧩 Always learning, always building
 </p>
