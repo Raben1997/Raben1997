@@ -1,11 +1,11 @@
 <!-- Banner -->
-<p align="center">
+<p align="left">
   <img src="https://github.com/Raben1997/Raben1997/blob/main/Raben%20Haldar.png" alt="Raben Haldar - Web Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Raben</h1>
 
-<p align="center">
+<p align="left">
 💻 Full Stack Developer (MERN Stack)<br>
 🚀 I build modern, scalable full-stack web apps<br>
 🌱 Currently focusing on React, Node, MongoDB & freelancing<br>
@@ -17,7 +17,7 @@
 
 ### 🌐 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:raben.haldar.1993@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>&nbsp;&nbsp;
@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
   </a>&nbsp;&nbsp;
@@ -70,16 +70,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Raben1997&show_icons=true&theme=transparent&hide_title=false&hide=issues&custom_title=My%20GitHub%20Stats" height="180" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997&layout=compact&theme=transparent" height="180" />
 </p>
 
----
 
-> “Code is not just code, it’s poetry in motion.”  
-> — *Raben Haldar*
-
----
 
