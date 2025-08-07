@@ -43,3 +43,25 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin\&logoColor=white\&style=flat)](https://linkedin.com/in/rabenhaldar)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook\&logoColor=white\&style=flat)](https://facebook.com/rabenhaldar97)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail\&logoColor=white\&style=flat)](mailto:raben.haldar.1993@gmail.com)
+
+
+### 💼 Featured Projects
+
+🔸 [RabenShop_E-commerce](https://github.com/Raben1997/RabenShop_E-commerce)  
+An e-commerce web app built with HTML, CSS, and JavaScript.
+
+🔸 [My Portfolio](https://github.com/Raben1997/my-portfolio)  
+A personal developer portfolio website showcasing my projects and skills.
+
+🔸 [Programming Hero Projects](https://github.com/Raben1997?tab=repositories&q=ProgrammingHero)  
+All practice projects from Programming Hero’s MERN Stack course.
+
+
+### ⚡ GitHub Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raben1997&theme=github-compact)
+
+### 🌍 Social Proof
+[![Fiverr](https://img.shields.io/badge/Fiverr-Seller-green?style=flat&logo=fiverr)](https://fiverr.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rabenhaldar)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Ask%20Me-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/your-id)
+
