@@ -77,6 +77,11 @@
 </p>
 
 
+<div align="left">
+  <a href="https://app.daily.dev/mir" target="_blank">
+    <img align="right" src="https://raw.githubusercontent.com/Raben1997/Raben1997/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/>
+  </a>
+</div>
 
  
 
