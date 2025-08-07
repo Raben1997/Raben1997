@@ -76,7 +76,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="180" />
 </p>
 
+---
 
+### 🚀 Featured Projects
+
+- 🎯 [**Roommate Finder**](https://roommate-finder-33c6c.web.app/)  
+  A full-stack roommate matching platform using React, Firebase, and Node.js.
+
+- 📘 [**Tutor Booking System**](https://tutor-booking-client.web.app/)  
+  Book private tutors with dashboard, authentication, and Stripe integration.
+
+- 🏫 [**Scholarship Management System**](https://scholarship-management-system1.web.app/)  
+  MERN-based portal for scholarship application and admin management.
 
 
 
