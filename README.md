@@ -3,7 +3,7 @@
   <img src="https://github.com/Raben1997/Raben1997/blob/main/Raben%20Haldar.png" alt="Raben Haldar - Web Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Raben</h1>
+<h1 align="left">Hi there 👋 I'm Raben</h1>
 
 <p align="left">
 💻 Full Stack Developer (MERN Stack)<br>
