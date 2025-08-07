@@ -15,29 +15,45 @@
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /><br>
+    <sub>HTML</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" /><br>
+    <sub>CSS</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" /><br>
+    <sub>JavaScript</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" /><br>
+    <sub>React</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" /><br>
+    <sub>Node.js</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /><br>
+    <sub>MongoDB</sub>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" /><br>
+    <sub>Firebase</sub>
   </a>
 </p>
+
 
 
 ---
