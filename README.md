@@ -92,3 +92,18 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" />
   </a>
 </p>
+
+
+---
+
+### 📊 GitHub Stats
+
+![Raben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raben1997&show_icons=true&theme=transparent&hide_title=false&hide=issues&custom_title=My%20GitHub%20Stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997&layout=compact&theme=transparent)
+
+### 🌟 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raben1997&theme=transparent&hide_border=false" alt="Raben's GitHub Streak" />
+</p>
