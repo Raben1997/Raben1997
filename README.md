@@ -81,13 +81,13 @@
 ### 🚀 Featured Projects
 
 - 🎯 [**Roommate Finder**](https://roommate-finder-33c6c.web.app/)  
-  A full-stack roommate matching platform using React, Firebase, and Node.js.
+  A simple and user-friendly web application to help you find suitable roommates based on your preferences.
 
 - 📘 [**Tutor Booking System**](https://tutor-booking-client.web.app/)  
-  Book private tutors with dashboard, authentication, and Stripe integration.
+  A full-stack online tutor booking application where students can explore available tutors, book them based on preferred language and skillset, and leave reviews. Built using the MERN stack.
 
 - 🏫 [**Scholarship Management System**](https://scholarship-management-system1.web.app/)  
-  MERN-based portal for scholarship application and admin management.
+  A full-stack web application to manage and apply for scholarships, built with **React**, **Express.js**, **MongoDB**, **Firebase Authentication**, and **Stripe Payments**.
 
 
 
