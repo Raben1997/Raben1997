@@ -10,11 +10,8 @@
 🧩 Always learning, always building
 </p>
 
-<p align="center">
-📫 <a href="mailto:raben.haldar.1993@gmail.com" target="_blank">Email</a> • 
-<a href="https://linkedin.com/in/rabenhaldar" target="_blank">LinkedIn</a> • 
-<a href="https://facebook.com/rabenhaldar97" target="_blank">Facebook</a>
-</p>
+🌐 Let's Connect
+<p align="center"> <a href="mailto:raben.haldar.1993@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/> </a>&nbsp; <a href="https://linkedin.com/in/rabenhaldar" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> </a>&nbsp; <a href="https://facebook.com/rabenhaldar97" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/> </a> </p>
 
 ---
 
