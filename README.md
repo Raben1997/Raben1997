@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://facebook.com/rabenhaldar97" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fb" height="40" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
 </p>
 
