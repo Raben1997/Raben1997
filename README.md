@@ -19,3 +19,17 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
+### 📊 GitHub Stats
+![Raben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raben1997&show_icons=true&theme=transparent&hide_title=false&hide=issues&custom_title=My%20GitHub%20Stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raben1997&layout=compact&theme=transparent)
+
+
+> “Code is not just code, it’s poetry in motion.”  
+> — Raben Haldar
+
+
+### 🌐 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rabenhaldar)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://facebook.com/rabenhaldar97)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:raben.haldar.1993@gmail.com)
