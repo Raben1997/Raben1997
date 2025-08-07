@@ -15,13 +15,30 @@
 
 ### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white\&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white\&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white\&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white\&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase\&logoColor=black\&style=flat)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  </a>
+</p>
+
 
 ---
 
@@ -45,23 +62,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail\&logoColor=white\&style=flat)](mailto:raben.haldar.1993@gmail.com)
 
 
-### 💼 Featured Projects
-
-🔸 [RabenShop_E-commerce](https://github.com/Raben1997/RabenShop_E-commerce)  
-An e-commerce web app built with HTML, CSS, and JavaScript.
-
-🔸 [My Portfolio](https://github.com/Raben1997/my-portfolio)  
-A personal developer portfolio website showcasing my projects and skills.
-
-🔸 [Programming Hero Projects](https://github.com/Raben1997?tab=repositories&q=ProgrammingHero)  
-All practice projects from Programming Hero’s MERN Stack course.
-
-
-### ⚡ GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raben1997&theme=github-compact)
-
-### 🌍 Social Proof
-[![Fiverr](https://img.shields.io/badge/Fiverr-Seller-green?style=flat&logo=fiverr)](https://fiverr.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rabenhaldar)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Ask%20Me-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/your-id)
 
