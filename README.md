@@ -1,4 +1,4 @@
-<img src="https://github.com/Raben1997/Raben1997/blob/main/Raben%20Haldar.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/Raben1997/Raben1997/blob/f731e182ec1d1e544a946df7a7710fb0b0d4bf5f/Raben%20Haldar.png" alt="Mokkapps GitHub README header image">
 # Hi there 👋 I'm Raben
 
 💻 Full Stack Developer (MERN Stack)  
